@@ -2,11 +2,11 @@
 
 🙋I am an **UNDER GRAD BCA ANALYTICS STUDENT / Data SECURITY ENTHUSIAST**
 <br>
-🤝 I’m looking for **Remote Internship Opportunities**
+🤝 I’m looking for **INTERNSHIP OPPORTUNITIES**
 <br>
-🌱 I’m currently learning **FLASK, JAVASCRIPT, JAVA**
+🌱 I’m currently learning **FLASK, JAVASCRIPT, JAVA, PYTHON**
 <br>
-💬 Ask me about **Javascript, Python, Graphics Designing & DATA ANALYSIS**
+💬 Ask me about **Javascript, PYTHON, GRAPHIC DESIGN & DATA ANALYSIS**
 <br>
 
 
