@@ -1,12 +1,12 @@
 # 💫 About Me:
 
-🙋I am an **UNDER GRAD BCA ANALYTICS STUDENT / Data SECURITY ENTHUSIAST**
+🙋I am an **UNDER GRAD BCA ANALYTICS STUDENT / DATA ANALYSIS ENTHUSIAST**
 <br>
 🤝 I’m looking for **INTERNSHIP OPPORTUNITIES**
 <br>
-🌱 I’m currently learning **FLASK, JAVASCRIPT, JAVA, PYTHON**
+🌱 I’m currently learning **FLASK, JAVASCRIPT, PYTHON, SWIFT**
 <br>
-💬 Ask me about **Javascript, PYTHON, GRAPHIC DESIGN & DATA ANALYSIS**
+💬 Ask me about **PYTHON, JAVA, GRAPHIC DESIGN & DATA ANALYSIS**
 <br>
 
 
