@@ -4,9 +4,9 @@
 <br>
 🤝 I’m looking for **INTERNSHIP OPPORTUNITIES**
 <br>
-🌱 I’m currently learning **FLASK, JAVASCRIPT, PYTHON, SWIFT**
+🌱 I’m currently learning **FLASK, JAVASCRIPT, SWIFT**
 <br>
-💬 Ask me about **PYTHON, JAVA, GRAPHIC DESIGN & DATA ANALYSIS**
+💬 Ask me about **PYTHON, JAVA, UI/UX, GRAPHIC DESIGN & DATA ANALYSIS**
 <br>
 
 
