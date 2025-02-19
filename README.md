@@ -6,7 +6,7 @@
 <br>
 🌱 I’m currently learning **FLASK, JAVASCRIPT, SWIFT**
 <br>
-💬 Ask me about **PYTHON, JAVA, UI/UX, GRAPHIC DESIGN & DATA ANALYSIS**
+💬 Ask me about **PYTHON, JAVA, GRAPHIC DESIGNING & DATA ANALYSIS**
 <br>
 
 
